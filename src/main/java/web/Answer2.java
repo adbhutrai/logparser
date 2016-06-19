@@ -9,10 +9,12 @@ import java.util.Scanner;
 import static java.lang.System.out;
 
 /**
+ * this class has been updated
  * @author adbhutrai
  *
  */
 public class Answer2 {
+	
 	private static int testCases;
 	private static List<Answer2.CastleWar> cases = new ArrayList<Answer2.CastleWar>();
 
